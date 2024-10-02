@@ -1,4 +1,5 @@
 # ComboLog Merger
+![tool](https://github.com/user-attachments/assets/1152378e-dee0-4bdc-a595-198237d80551)
 
 **Combo List and Log Merger Tool**
 
